@@ -29,7 +29,7 @@ A simple and responsive task management application built using React.js and Nod
 
 @http://localhost:8888
 npm run dev
-inital fil server.js
+inital file server.js
 
 ## frontend
 
